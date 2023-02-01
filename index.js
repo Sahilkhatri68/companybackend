@@ -15,7 +15,7 @@ const allowedOrigins = [
   "https://mazzad-admin-k1le.vercel.app",
   "http://localhost:3000",
   "https://admin-for-all.vercel.app",
-  "https://company-panel.vercel.app",
+  "https://companypanel.vercel.app/login",
 ];
 
 app.use(
