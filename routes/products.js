@@ -56,8 +56,6 @@ router.post("/", (req, res) => {
     createdAt: new Date().toISOString(),
   });
 
- 
-  
   //Send response
   res.status(200).send({
     message: "Product registered successfully",
