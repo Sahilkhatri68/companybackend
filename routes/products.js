@@ -57,6 +57,7 @@ router.post("/", (req, res) => {
   });
 
   //Send response
+  //Send response
   res.status(200).send({
     message: "Product registered successfully",
   });
